@@ -7,14 +7,12 @@ worldwide.
 ## App Preview
 
 ### Windows View
-![Before Search](Images/20251128_223501_Before_Search.jpg)
-![After Search](Images/20251128_223555_After_Search.jpg)
 
+![alt text](Images/Windows.png)
 
 ### Mobile View
-![Before Search](Images/20251128_223622_BeforeSearch.jpg)
-![After search](Images/20251128_223627_AfterSearch.jpg)
 
+![alt text](Images/Mobile.png)
 
 ## Table of Contents
 
