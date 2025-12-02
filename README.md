@@ -12,23 +12,15 @@ worldwide.
 
 ### Mobile View
 
-![alt text](Images/Mobile.png)
+  ![alt text](Images/Mobile.png)
 
 ## Table of Contents
 
-- [Live Weather Dashboard](#live-weather-dashboard)
-  - [App Preview](#app-preview)
-    - [Windows View](#windows-view)
-    - [Mobile View](#mobile-view)
-  - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Features](#features)
   - [Technologies Used](#technologies-used)
   - [Project Structure](#project-structure)
   - [Installation](#installation)
-    - [1. Clone the repository](#1-clone-the-repository)
-    - [2. Image Setup (IMPORTANT)](#2-image-setup-important)
-    - [3. Run the project](#3-run-the-project)
   - [How to Use](#how-to-use)
   - [API Configuration](#api-configuration)
   - [Future Enhancements](#future-enhancements)
@@ -36,7 +28,7 @@ worldwide.
   - [License](#license)
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
-  - [Made by  ❤️\* Raju Babu Panchada](#made-by--️-raju-babu-panchada)
+  
 
 ## Overview
 
